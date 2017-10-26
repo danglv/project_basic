@@ -36,4 +36,6 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency "bootstrap_sb_admin_base_v2", "~> 0.3.6"
   spec.add_development_dependency "simple_form", "~> 3.5"
   spec.add_development_dependency "bootstrap-sass", "~> 3.3"
+  spec.add_development_dependency "pry", "~> 0.11.2"
+  spec.add_development_dependency "devise", "~> 4.3"
 end

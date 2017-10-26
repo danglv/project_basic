@@ -1,2 +1,4 @@
 #!/usr/bin/env ruby
 puts "fuck"
+rails g devise:install
+puts "finish"
